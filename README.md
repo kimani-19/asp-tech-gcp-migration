@@ -44,8 +44,7 @@ This project simulates migrating a company (ASP Technologies) from on-premise in
 - Hosted custom website
 
 ## 🌐 Live Website
-
-http://YOUR_EXTERNAL_IP
+http://35.188.163.184/
 
 ## 🛠 Technologies Used
 
