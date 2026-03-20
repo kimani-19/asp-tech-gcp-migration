@@ -1,5 +1,7 @@
 # ASP Technologies Cloud Migration (GCP)
 
+Simulated cloud migration from on-prem infrastructure to Google Cloud Platform (GCP).
+
 ## 📌 Project Overview
 
 This project simulates migrating a company (ASP Technologies) from on-premise infrastructure to Google Cloud Platform (GCP).
