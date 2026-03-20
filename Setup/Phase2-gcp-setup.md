@@ -1,0 +1,6 @@
+- Created GCP project
+- Enabled billing and create budget
+- Enabled APIs & Services:
+  - Compute Engine
+  - Cloud SQL
+  - Cloud Resource Manger API
