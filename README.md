@@ -61,3 +61,11 @@ http://35.188.163.184/
 - Add Cloud SQL
 - Load balancing
 - Docker/Kubernetes
+- 
+## 🧠 Skills Demonstrated
+- Google Cloud Platform (GCP)
+- Compute Engine
+- VPC Networking
+- Firewall Configuration
+- Linux Server Management
+- Apache Web Server Deployment
